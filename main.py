@@ -1,0 +1,1 @@
+print("Hello Praktikum LTIK ini adalah test")
